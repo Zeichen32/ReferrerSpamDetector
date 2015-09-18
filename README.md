@@ -29,12 +29,12 @@ Download one or more list into you project directory.
 ## Create a ReferrerDetector
 There are multiple Providers available:
 
-- [ListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/ListProvider.php)
-- [TxtListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/TxtListProvider.php)
-- [CsvListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/CsvListProvider.php)
-- [XmlListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/XmlListProvider.php)
-- [RegexProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/RegexProvider.php)
-- [PdoProvider](https://github.com/Zeichen32/ReferrerSpamDetector/master/src/Provider/PdoProvider.php)
+- [ListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/ListProvider.php)
+- [TxtListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/TxtListProvider.php)
+- [JsonListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/JsonListProvider.php)
+- [XmlListProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/XmlListProvider.php)
+- [RegexProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/RegexProvider.php)
+- [PdoProvider](https://github.com/Zeichen32/ReferrerSpamDetector/blob/master/src/Provider/PdoProvider.php)
 
 ### Basic example
 ```php
