@@ -1,0 +1,6 @@
+/.idea/
+/ReferrerSpamDetector.iml
+/composer.lock
+/vendor/
+/data/
+/test.php
